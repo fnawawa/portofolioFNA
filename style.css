@@ -1,3 +1,4 @@
+@media screen and {max-width: 700px};
 .container
 {
   font-family: 'Montserrat', sans-serif;
@@ -223,3 +224,5 @@ a img {
   height: 50px;
   padding-left: 20px;
 }
+
+@media screen and (max-width: 700px)
